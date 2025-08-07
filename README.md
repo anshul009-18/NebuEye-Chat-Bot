@@ -13,6 +13,15 @@ The NebuEye application is a **Streamlit**-based web application designed to fac
 * **Document Chat**: Users can upload multiple PDF documents. The app then processes these documents to create a searchable knowledge base, allowing users to ask questions and receive answers based *only* on the content of their uploaded files.
 * **General Chat**: Users can engage in free-form conversations with an AI assistant that is not limited to the uploaded documents.
 
+# NebuEye Chatbot
+
+This is an intelligent chatbot built with Streamlit, designed to...
+
+## Deployment
+
+You can access the live application here:
+
+[NebuEye Chatbot on Streamlit Cloud](https://nebueye-chat-bot.streamlit.app/))
 ***
 
 ### 🎯 How It Works
