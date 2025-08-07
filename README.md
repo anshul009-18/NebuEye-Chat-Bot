@@ -19,7 +19,7 @@ The NebuEye application is a **Streamlit**-based web application designed to fac
 
 You can access the live application here:
 
-[NebuEye Chatbot on Streamlit Cloud](https://nebueye-chat-bot.streamlit.app/))
+[NebuEye Chatbot on Streamlit Cloud](https://nebueye-chat-bot.streamlit.app/)
 
 ***
 
